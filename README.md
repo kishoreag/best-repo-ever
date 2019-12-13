@@ -1,2 +1,2 @@
 # best-repo-ever
-Test line 1 - changed this line in branch 1
+Test line 1 Changes made in branch 2 and branch 1
